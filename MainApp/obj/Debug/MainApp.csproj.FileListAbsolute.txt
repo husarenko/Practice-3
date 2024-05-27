@@ -1,0 +1,7 @@
+E:\2024@II\Net\Practice3\MainApp\bin\Debug\MainApp.exe.config
+E:\2024@II\Net\Practice3\MainApp\bin\Debug\MainApp.exe
+E:\2024@II\Net\Practice3\MainApp\bin\Debug\MainApp.pdb
+E:\2024@II\Net\Practice3\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+E:\2024@II\Net\Practice3\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+E:\2024@II\Net\Practice3\MainApp\obj\Debug\MainApp.exe
+E:\2024@II\Net\Practice3\MainApp\obj\Debug\MainApp.pdb

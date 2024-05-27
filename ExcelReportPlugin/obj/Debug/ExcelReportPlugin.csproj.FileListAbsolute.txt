@@ -1,0 +1,7 @@
+E:\2024@II\Net\Practice3\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.dll
+E:\2024@II\Net\Practice3\ExcelReportPlugin\bin\Debug\ExcelReportPlugin.pdb
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.AssemblyReference.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.ResolveComReference.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.csproj.CoreCompileInputs.cache
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.dll
+E:\2024@II\Net\Practice3\ExcelReportPlugin\obj\Debug\ExcelReportPlugin.pdb

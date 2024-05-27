@@ -1,0 +1,7 @@
+E:\2024@II\Net\Practice3\WordReportPlugin\bin\Debug\WordReportPlugin.dll
+E:\2024@II\Net\Practice3\WordReportPlugin\bin\Debug\WordReportPlugin.pdb
+E:\2024@II\Net\Practice3\WordReportPlugin\obj\Debug\WordReportPlugin.csproj.AssemblyReference.cache
+E:\2024@II\Net\Practice3\WordReportPlugin\obj\Debug\WordReportPlugin.csproj.ResolveComReference.cache
+E:\2024@II\Net\Practice3\WordReportPlugin\obj\Debug\WordReportPlugin.csproj.CoreCompileInputs.cache
+E:\2024@II\Net\Practice3\WordReportPlugin\obj\Debug\WordReportPlugin.dll
+E:\2024@II\Net\Practice3\WordReportPlugin\obj\Debug\WordReportPlugin.pdb
